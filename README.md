@@ -3,6 +3,9 @@ This repository includes the codes for a load cell-based 2-axis force sensor mad
 
 This sensor was originally developed to be used with Kinova Gen3 7DOF robot fixed at its end effector as a means of measuring the interaction force from a human guiding the robot in the x-y plane. The CAD files are created considering this requirement.
 
+<img src="https://github.com/KithmiNDWidanage/2-axis_LoadCell_sensor_HX711/blob/main/Sensor_on_robot_image.png" width="250">
+
+
 ## Components:
 This is tested with the following components:
 - 2 x [Strain Gauge Load Cell - 4 Wires - 20Kg](https://thepihut.com/products/adafruit-strain-gauge-load-cell-4-wires-20kg?variant=32310617505854)
